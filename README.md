@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **mdjubayer1141@gmail.com**
 
-- ⚡ Fun fact **nai**
 </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubaer1141&label=Profile%20views&color=0e75b6&style=flat" alt="jubaer1141" /> </p>
 
 <h3 align="left">Languages and Tools:</h3>
