@@ -7,11 +7,11 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-- 👨‍🎓 I am studying CSE at **Daffodil International University**
+-  I am studying CSE at **Daffodil International University**
 
-- 👨‍💻 I’m currently learning **Programming**
+-  I’m currently learning **Programming**
 
-- 📫 How to reach me **mdjubayer1141@gmail.com**
+-  How to reach me **mdjubayer1141@gmail.com**
 
 </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubaer1141&label=Profile%20views&color=0e75b6&style=flat" alt="jubaer1141" /> </p>
 
