@@ -1,5 +1,5 @@
 ![MasterHead](https://pbs.twimg.com/profile_banners/1196082273340100608/1717320579/1500x500)
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=44AAFF&center=true&vCenter=true&random=false&width=435&lines=Hello+world%2C+I'm+jubaer.+" alt="Typing SVG" /></a></h1>
+
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_423_752/0/1691989932072?e=1723075200&v=beta&t=fTKIzC0WOPROTVUtlsL618FL_ZCkspUXpvIkIft_bPo">
 
 
