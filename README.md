@@ -2,7 +2,6 @@
 
 
 
-<img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_423_752/0/1691989932072?e=1723075200&v=beta&t=fTKIzC0WOPROTVUtlsL618FL_ZCkspUXpvIkIft_bPo">
 
 
 
