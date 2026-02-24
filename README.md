@@ -1,10 +1,9 @@
 ![MasterHead](https://pbs.twimg.com/profile_banners/1196082273340100608/1717320579/1500x500)
 
+
+
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_423_752/0/1691989932072?e=1723075200&v=beta&t=fTKIzC0WOPROTVUtlsL618FL_ZCkspUXpvIkIft_bPo">
 
-
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 -  I am studying CSE at **Daffodil International University**
