@@ -4,9 +4,9 @@
 
 I am a Computer Science and Engineering student at **Daffodil International University** who is passionate about learning programming and building practical projects. I enjoy working on both academic and personal projects, and I like to understand how real systems work in areas such as networking, databases, and software development. I have a growing interest in artificial intelligence and deep learning, and I enjoy learning step by step, improving my problem-solving skills, and writing clean and well-structured code. I use GitHub to share my learning journey, track my progress, and continuously improve my coding and system design skills through real projects.
 
-- 🎓 CSE undergraduate  
-- 🌱 Currently focusing on Python and system-oriented project development  
-- 📚 Preparing for my final year project (thesis)  
+- 🎓 CSE undergraduate
+- 🌱 Currently focusing on Python and system-oriented project development
+- 📚 Preparing for my final year project (thesis)
 - 📫 How to reach me: mdjubayer1141@gmail.com
 
 </p> <p align="left"> <img src="https://komarev.com/ghpvc/?username=jubaer1141&label=Profile%20views&color=0e75b6&style=flat" alt="jubaer1141" /> </p>
